@@ -1,0 +1,13 @@
+package PageObject;
+
+
+public class LoginPage {
+	
+	WebDriver ldriver;
+	
+	public LoginPage (WebDriver rDriver)
+	{
+		
+	}
+
+}
